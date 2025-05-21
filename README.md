@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Hanna Stanyak
-- 👀 I’m interested in ...
+- 👀 I’m interested in meeting new People and learning new Skills
 - 🌱 I’m currently learning Java, C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hannastanyak@gmail.com
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: ...
 
 <!---
 stanyaha233/stanyaha233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
